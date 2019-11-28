@@ -151,7 +151,7 @@ img {
                         <div class="form-group">
                           <label class="control-label col-sm-2" for="nric">NRIC:</label>
                           <div class="col-sm-6">
-                          <input type="text"  pattern="\d*" class="form-control" required id="nric" name="nric" placeholder="Enter NRIC">
+                          <input type="number"  pattern="\d*" class="form-control" required id="nric" name="nric" placeholder="Enter NRIC">
                           </div>
                         </div>
                         <div class="form-group">
@@ -180,13 +180,13 @@ img {
                         <div class="form-group">
                           <label class="control-label col-sm-2" for="email">E-mail:</label>
                           <div class="col-sm-7">
-                          <input type="text" class="form-control" required id="email" name="email" placeholder="Enter E-mail">
+                          <input type="email" class="form-control" required id="email" name="email" placeholder="Enter E-mail">
                           </div>
                         </div>
                         <div class="form-group">
                           <label class="control-label col-sm-2" for="phone">Phone:</label>
                           <div class="col-sm-4">
-                          <input type="tel" class="form-control" required  pattern="\d*" id="phone" name="phone" placeholder="Enter Phone Number">
+                          <input type="number" class="form-control" required  pattern="\d*" id="phone" name="phone" placeholder="Enter Phone Number">
                           </div>
                         </div>
                         <div class="form-group">
