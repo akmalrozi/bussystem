@@ -99,7 +99,10 @@ img {
 						<a href="list.php" class="btn btn-primary btn-lg" style="min-width:220px"><span style="font-size:17px;"><b><span class="glyphicon glyphicon-calendar"></span>Booking</b></span></a>
 					</div>
 					
-                </div>                
+               				 <div class="col-md-1">
+						<a href="approval.php" class="btn btn-warning btn-lg" style="min-width:220px"><span style="font-size:17px;"><b><span class="glyphicon glyphicon-file"></span> Approvals</b></span></a>
+					</div>
+		    </div>                
 				<div class="clearfix"></div>
             </div>
         </div>
