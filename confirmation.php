@@ -270,6 +270,7 @@ img {
                 
                         <div class="form-group">
                             <button type="submit" name="submit" class="btn btn-default"><strong><span class="glyphicon glyphicon-ok"></span>&nbsp; Proceed to Submit</strong></button>
+			    <button type="button" name="edit" class="btn btn-default"><strong><span class="glyphicon glyphicon-remove"></span><a href=list.php>&nbsp; Edit before Submit</a></strong></button>
                         </div>  
                           </form>
               
