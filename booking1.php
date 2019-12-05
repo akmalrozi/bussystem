@@ -225,7 +225,7 @@ img {
                         <div class="form-group">
                           <label class="control-label col-sm-2" for="postcode">Postcode:</label>
                           <div class="col-sm-4">
-                          <input type="text" maxlength="5"  pattern="\d*" class="form-control" id="postcode" required name="postcode" placeholder="Enter Postcode">
+                          <input type="number" maxlength="5"  pattern="\d*" class="form-control" id="postcode" required name="postcode" placeholder="Enter Postcode">
                           </div>
                         </div>
 						 <div class="form-group">
@@ -270,13 +270,7 @@ img {
                           <button type="button" class="close" data-dismiss="modal">&times;</button>
                           <h4 class="modal-title" style="color:#000000;">Terms & Conditions</h4>
                         </div>
-                        <div class="modal-body" style="overflow-y: scroll; height: 450px;">
-                          <p style="color:#000000; text-align:left;">
-                          1. False, inaccurate, misleading, unlawful, harmful, threatening, abusive, tortuous, harassing, defamatory, libelous, invasive of another's privacy, vulgar, profane, sexually oriented/suggestive/explicit, obscene, racially or ethnically offensive or otherwise objectionable.<br/>
-						  2. Violates any laws, third party rights, or infringes on any patent, trademark, trade secret, copyright or other proprietary rights of any party.<br/>
-						  
-
-</div>
+                       
                         <div class="modal-footer">
                           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                         </div>
