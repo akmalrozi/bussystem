@@ -77,21 +77,11 @@ img {
                 <a class="navbar-brand" href="index.php">Business Casual</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            < <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
                         <a href="admin.php">Admin Home</a>
                     </li>
-                    <li>
-                        <a href="add.php">Add Bus</a>
-                    </li>
-                    <li>
-                        <a href="view.php">View Bus</a>
-                    </li>
-					<li>
-                        <a href="vieworders.php">View Orders</a>
-                    </li>
-					
                     <li>
                         <a href="logout.php">Logout</a>
                     </li>
