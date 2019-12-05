@@ -81,7 +81,7 @@ img {
                 <ul class="nav navbar-nav">
                     <li>
                         <a href="admin.php">Admin Home</a>
-                    </li>
+</li>
                     <li>
                         <a href="logout.php">Logout</a>
                     </li>
@@ -94,7 +94,7 @@ img {
 
     <div class="container">
 
-        <div class="row">
+         <div class="row">
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
@@ -106,7 +106,8 @@ img {
               <a href="add.php" class="btn btn-success btn-lg btn-block"><b><span class="glyphicon glyphicon-plus-sign"></span> Add New Bus</b></a>
               <a href="view.php" class="btn btn-warning btn-lg btn-block"><b><span class="glyphicon glyphicon-file"></span> View Current Bus</b></a>
               <a href="vieworders.php" class="btn btn-primary btn-lg btn-block"><b><span class="glyphicon glyphicon-list-alt"></span> View Orders</b></a>
-              <a href="logout.php" class="btn btn-danger btn-lg btn-block"><b> Logout <span class="glyphicon glyphicon-log-out"></span></b></a>
+		<a href="viewcustomer.php" class="btn btn-danger btn-lg btn-block"><b><span class="glyphicon glyphicon-list-alt"></span> View Customer</b></a>
+              
 					
 					
                 <div class="clearfix"></div>
